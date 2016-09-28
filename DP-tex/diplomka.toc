@@ -1,0 +1,124 @@
+\select@language {czech}
+\contentsline {chapter}{\numberline {1}\IeC {\'U}vod}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}C\IeC {\'\i }l, metodika a p\IeC {\v r}edpoklady pr\IeC {\'a}ce}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Struktura pr\IeC {\'a}ce}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Liter\IeC {\'a}rn\IeC {\'\i } re\IeC {\v s}er\IeC {\v s}e v oblasti}{3}{section.1.3}
+\contentsline {chapter}{\numberline {2}Javascript jako jazyk pro v\IeC {\'y}voj webov\IeC {\'y}ch aplikac\IeC {\'\i }}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Historick\IeC {\'y} v\IeC {\'y}voj}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}ES6 \IeC {\textendash } Nov\IeC {\'e} standardy}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}T\IeC {\v r}\IeC {\'\i }dy}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Let a const}{9}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Moduly}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Dal\IeC {\v s}\IeC {\'\i } novinky}{12}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Javascriptov\IeC {\'e} transpilery}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}CoffeeScript}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Babel}{14}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Node.js \IeC {\textendash } Javascript na serveru}{15}{section.2.4}
+\contentsline {section}{\numberline {2.5}V\IeC {\'y}vojov\IeC {\'e} n\IeC {\'a}stroje}{17}{section.2.5}
+\contentsline {section}{\numberline {2.6}Automatizace v\IeC {\'y}voje}{18}{section.2.6}
+\contentsline {section}{\numberline {2.7}Lintov\IeC {\'a}n\IeC {\'\i } k\IeC {\'o}du}{19}{section.2.7}
+\contentsline {section}{\numberline {2.8}Nejpou\IeC {\v z}\IeC {\'\i }vanej\IeC {\v s}\IeC {\'\i } knihovny}{20}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}jQuery}{20}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}AngularJS}{22}{subsection.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}React}{23}{subsection.2.8.3}
+\contentsline {section}{\numberline {2.9}Mo\IeC {\v z}nosti testov\IeC {\'a}n\IeC {\'\i }}{24}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}Unit testy}{25}{subsection.2.9.1}
+\contentsline {subsection}{\numberline {2.9.2}Integra\IeC {\v c}n\IeC {\'\i } testy}{26}{subsection.2.9.2}
+\contentsline {subsection}{\numberline {2.9.3}Testov\IeC {\'a}n\IeC {\'\i } React komponent}{27}{subsection.2.9.3}
+\contentsline {chapter}{\numberline {3}Jednostr\IeC {\'a}nkov\IeC {\'e} webov\IeC {\'e} aplikace}{28}{chapter.3}
+\contentsline {section}{\numberline {3.1}Vznik my\IeC {\v s}lenky SPA}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}Princip technologie}{31}{section.3.2}
+\contentsline {section}{\numberline {3.3}Hlavn\IeC {\'\i } v\IeC {\'y}hody}{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}V\IeC {\v e}t\IeC {\v s}\IeC {\'\i } m\IeC {\'\i }ra interakce}{32}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Obnovov\IeC {\'a}n\IeC {\'\i } pouze ur\IeC {\v c}it\IeC {\'y}ch \IeC {\v c}\IeC {\'a}st\IeC {\'\i } aplikace}{34}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Mohou b\IeC {\v e}\IeC {\v z}et offline}{34}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Lep\IeC {\v s}\IeC {\'\i } v\IeC {\'y}konnost}{34}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Rozt\IeC {\v r}\IeC {\'\i }\IeC {\v s}t\IeC {\v e}nost koncov\IeC {\'y}ch za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i }}{35}{section.3.4}
+\contentsline {section}{\numberline {3.5}Vhodn\IeC {\'e} knihovny}{36}{section.3.5}
+\contentsline {section}{\numberline {3.6}Nev\IeC {\'y}hody a \IeC {\v c}ast\IeC {\'e} probl\IeC {\'e}my p\IeC {\v r}i v\IeC {\'y}voji}{37}{section.3.6}
+\contentsline {chapter}{\numberline {4}Isomorfn\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }stup k programov\IeC {\'a}n\IeC {\'\i } webov\IeC {\'y}ch aplikac\IeC {\'\i }}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}V\IeC {\'y}hody isomorfn\IeC {\'\i }ho p\IeC {\v r}\IeC {\'\i }stupu}{40}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Sjednocen\IeC {\'\i } pou\IeC {\v z}\IeC {\'\i }van\IeC {\'e}ho jazyka a prost\IeC {\v r}ed\IeC {\'\i }}{41}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Interaktivita jednostr\IeC {\'a}nkov\IeC {\'y}ch aplikac\IeC {\'\i }}{42}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Sd\IeC {\'\i }len\IeC {\'\i } k\IeC {\'o}du mezi prost\IeC {\v r}ed\IeC {\'\i }mi}{42}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Rychlej\IeC {\v s}\IeC {\'\i } prvotn\IeC {\'\i } na\IeC {\v c}ten\IeC {\'\i } aplikace}{43}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Indexovatelnost vyhled\IeC {\'a}va\IeC {\v c}i}{44}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Server-side rendering}{45}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}V\IeC {\'y}voj mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{45}{subsection.4.1.7}
+\contentsline {section}{\numberline {4.2}Reaktivn\IeC {\'\i } programov\IeC {\'a}n\IeC {\'\i }}{46}{section.4.2}
+\contentsline {section}{\numberline {4.3}Imutabiln\IeC {\'\i } datov\IeC {\'e} struktury}{46}{section.4.3}
+\contentsline {section}{\numberline {4.4}Vhodn\IeC {\'e} programovac\IeC {\'\i } jazyky a n\IeC {\'a}stroje}{48}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}node.js}{48}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}npm}{48}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}express}{49}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Immutable.js}{49}{subsection.4.4.4}
+\contentsline {subsubsection}{\nonumberline List}{50}{section*.23}
+\contentsline {subsubsection}{\nonumberline Stack}{50}{section*.24}
+\contentsline {subsubsection}{\nonumberline Map}{51}{section*.25}
+\contentsline {subsubsection}{\nonumberline OrderedMap}{51}{section*.26}
+\contentsline {subsubsection}{\nonumberline Set}{51}{section*.27}
+\contentsline {subsubsection}{\nonumberline OrderedSet}{52}{section*.28}
+\contentsline {subsubsection}{\nonumberline Record}{52}{section*.29}
+\contentsline {subsubsection}{\nonumberline lazy Seq}{52}{section*.30}
+\contentsline {subsection}{\numberline {4.4.5}React}{53}{subsection.4.4.5}
+\contentsline {subsubsection}{\nonumberline Komponenty}{53}{section*.31}
+\contentsline {subsubsection}{\nonumberline Virtu\IeC {\'a}ln\IeC {\'\i } DOM}{54}{section*.32}
+\contentsline {subsubsection}{\nonumberline JSX}{55}{section*.34}
+\contentsline {subsubsection}{\nonumberline Props}{56}{section*.35}
+\contentsline {subsubsection}{\nonumberline States}{57}{section*.36}
+\contentsline {subsubsection}{\nonumberline Vykreslov\IeC {\'a}n\IeC {\'\i } HTML}{58}{section*.37}
+\contentsline {subsubsection}{\nonumberline Delegov\IeC {\'a}n\IeC {\'\i } ud\IeC {\'a}lost\IeC {\'\i }}{58}{section*.38}
+\contentsline {subsubsection}{\nonumberline React router}{58}{section*.39}
+\contentsline {subsection}{\numberline {4.4.6}Flux}{59}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Task runnery}{60}{subsection.4.4.7}
+\contentsline {subsubsection}{\nonumberline Grunt}{61}{section*.41}
+\contentsline {subsubsection}{\nonumberline Gulp}{62}{section*.42}
+\contentsline {subsubsection}{\nonumberline Webpack}{63}{section*.43}
+\contentsline {section}{\numberline {4.5}Ukl\IeC {\'a}d\IeC {\'a}n\IeC {\'\i } dat}{65}{section.4.5}
+\contentsline {section}{\numberline {4.6}Vybran\IeC {\'e} devstacky}{65}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Este.js}{66}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}IMA.js}{67}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Meteor}{68}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}DerbyJS}{69}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}Rendr}{70}{subsection.4.6.5}
+\contentsline {chapter}{\numberline {5}Uk\IeC {\'a}zkov\IeC {\'a} webov\IeC {\'a} aplikace}{72}{chapter.5}
+\contentsline {section}{\numberline {5.1}Vybran\IeC {\'e} \IeC {\v r}e\IeC {\v s}en\IeC {\'\i }}{73}{section.5.1}
+\contentsline {section}{\numberline {5.2}Hlavn\IeC {\'\i } principy implementace}{73}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Offline-ready}{74}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Mobile-first / Responsive design}{74}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Jeden stav aplikace}{75}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Jednosm\IeC {\v e}rn\IeC {\'y} tok dat}{76}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Realtime komunikace a synchronizace}{76}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}Pou\IeC {\v z}it\IeC {\'e} technologie}{77}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}node.js}{77}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}express}{77}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}React}{78}{subsection.5.3.3}
+\contentsline {subsubsection}{\nonumberline Hlavn\IeC {\'\i } komponenta aplikace}{78}{section*.53}
+\contentsline {subsubsection}{\nonumberline Datov\IeC {\'e} komponenty}{79}{section*.54}
+\contentsline {subsubsection}{\nonumberline React router}{80}{section*.55}
+\contentsline {subsubsection}{\nonumberline \IeC {\v C}ten\IeC {\'\i } formul\IeC {\'a}\IeC {\v r}ov\IeC {\'y}ch dat}{81}{section*.56}
+\contentsline {subsubsection}{\nonumberline Server-side rendering}{81}{section*.57}
+\contentsline {subsection}{\numberline {5.3.4}Redux}{83}{subsection.5.3.4}
+\contentsline {subsubsection}{\nonumberline Store}{83}{section*.58}
+\contentsline {subsubsection}{\nonumberline Akce}{83}{section*.59}
+\contentsline {subsubsection}{\nonumberline Reducer}{84}{section*.60}
+\contentsline {subsection}{\numberline {5.3.5}immutable.js}{85}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Babel}{86}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}RethinkDB}{86}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.8}Webpack}{87}{subsection.5.3.8}
+\contentsline {subsection}{\numberline {5.3.9}Stylus}{88}{subsection.5.3.9}
+\contentsline {section}{\numberline {5.4}Komunikace}{88}{section.5.4}
+\contentsline {section}{\numberline {5.5}Sestavov\IeC {\'a}n\IeC {\'\i } a spou\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } aplikace}{89}{section.5.5}
+\contentsline {section}{\numberline {5.6}Struktura aplikace}{90}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Vstupn\IeC {\'\i } body aplikace}{90}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Sd\IeC {\'\i }len\IeC {\'y} k\IeC {\'o}d}{91}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Serverov\IeC {\'a} \IeC {\v c}\IeC {\'a}st}{91}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}Klientsk\IeC {\'a} \IeC {\v c}\IeC {\'a}st}{92}{subsection.5.6.4}
+\contentsline {subsection}{\numberline {5.6.5}Testy}{93}{subsection.5.6.5}
+\contentsline {chapter}{\numberline {6}Porovn\IeC {\'a}n\IeC {\'\i } s existuj\IeC {\'\i }c\IeC {\'\i }mi v\IeC {\'y}vojov\IeC {\'y}mi postupy}{95}{chapter.6}
+\contentsline {chapter}{\numberline {7}V\IeC {\'y}sledky}{99}{chapter.7}
+\contentsline {chapter}{\numberline {8}Z\IeC {\'a}v\IeC {\v e}r}{101}{chapter.8}
+\contentsline {section}{\numberline {8.1}Dal\IeC {\v s}\IeC {\'\i } sm\IeC {\v e}ry v\IeC {\'y}zkumu v oblasti}{102}{section.8.1}
+\contentsline {chapter}{Literatura}{104}{figure.caption.66}
+\contentsline {part}{P\IeC {\v r}\IeC {\'\i }lohy}{I}{chapter*.67}
+\contentsline {chapter}{\numberline {A}\noindent Manu\IeC {\'a}l k uk\IeC {\'a}zkov\IeC {\'e} webov\IeC {\'e} aplikaci}{II}{appendix.A}

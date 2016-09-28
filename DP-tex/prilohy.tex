@@ -1,0 +1,61 @@
+\appendix
+\pagenumbering{Roman}\addcontentsline{toc}{part}{Přílohy}\thispagestyle{empty}  \renewcommand{\appendixname}{P\v{r}iloha}%%přílohy, číslování římskými
+
+
+\part*{Přílohy}
+
+
+\chapter[\noindent Manuál k ukázkové webové aplikaci]{\noindent Manuál k ukázkové webové aplikaci}
+
+Ukázková webová aplikace běží v operačních systémech Windows, Mac OS X a Linux. Jedinou závislostí je node.js. Jelikož jsou použity nové vlastnosti moderního Javascriptu, je vyžadována minimálně verze 6.0.0. Jako databáze je použita RethinkDB, které je zdarma dostupná na webu projektu. Veškeré příkazy se volají prostřednictvím příkazového řádku.
+
+\section*{Požadavky na systém}
+\begin{itemize}
+\item Node.js - minimálně verze 6
+\item NPM - minimálně verze 3.10
+\item RethinkDB - minimálně verze  2.3
+\end{itemize}
+
+
+\section*{Instalace a spuštění aplikace} 
+
+\noindent\textbf{1. Nainstalování veškerých závislostí}
+
+\begin{lstlisting}[language=Javascript]
+npm intall
+\end{lstlisting}
+
+\noindent\textbf{2. Naplnění databáze testovacími daty}
+\begin{lstlisting}[language=Javascript]
+npm run db-setup
+\end{lstlisting}
+
+\noindent\textbf{3. Spuštění vývojového serveru}
+
+\vspace{3mm}
+Linux / Mac OS X:
+\begin{lstlisting}[language=Javascript]
+npm start
+\end{lstlisting}
+
+Windows:
+\begin{lstlisting}[language=Javascript]
+npm run start:win
+\end{lstlisting}
+
+Pokud vše proběhlo bez chyb, je ukázková isomorfní webová aplikace dostupná na adrese \textit{http://localhost:3001}.
+
+\section*{Dostupné tasky v NPM}
+Tasky se spouští pomocí příkazu \textit{npm run NAZEV\_TASKU}.
+
+\begin{itemize}
+\item \textbf{build:prod} – vytvoří balíček aplikace pro nasazení na server,
+\item \textbf{db-setup} – připraví databázi pro vývoj,
+\item \textbf{lint} – lintování kódu,
+\item \textbf{start} – spuštění aplikace ve vývojovém módu,
+\item \textbf{start:win} – spuštění aplikace ve vývojovém módu na platformě Windows,
+\item \textbf{start:prod} – spuštění aplikace v produkčním módu,
+\item \textbf{test} – spuštění testů.
+\end{itemize}
+
+

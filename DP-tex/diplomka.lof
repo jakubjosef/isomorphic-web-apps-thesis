@@ -1,0 +1,38 @@
+\select@language {czech}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Zastoupen\IeC {\'\i } jednotliv\IeC {\'y}ch webov\IeC {\'y}ch prohl\IeC {\'\i }\IeC {\v z}e\IeC {\v c}\IeC {\r u} \IeC {\textendash } \IeC {\v c}erven 2016 \cite {statcounter} \relax }}{5}{figure.caption.4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Grap popularity programovac\IeC {\'\i }ch jazyk\IeC {\r u}, \IeC {\v c}erven\IeC {\v e} ozna\IeC {\v c}en\IeC {\'e} skriptovac\IeC {\'\i } jazyky \cite {skriptovaci_jazyky} \relax }}{6}{figure.caption.5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagram typick\IeC {\'y}ch architektur webov\IeC {\'y}ch aplikac\IeC {\'\i } \cite {codepicnic_universaljs} \relax }}{8}{figure.caption.6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Uk\IeC {\'a}zka konverze ES6 javacriptu do ES5 pomoc\IeC {\'\i } transpileru Babel \cite {babel} \relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Uk\IeC {\'a}zka v\IeC {\'y}stupu linteru ESLint \cite {linter} \relax }}{20}{figure.caption.9}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagram obousm\IeC {\v e}rn\IeC {\'e}ho data bindingu knihovny AngularJS \cite {angular} \relax }}{23}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagram interakce klasick\IeC {\'e} a jednostr\IeC {\'a}nkov\IeC {\'e} webov\IeC {\'e} aplikace \cite {spa_diagram}. \relax }}{29}{figure.caption.12}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagram typick\IeC {\'e} architektury jednostr\IeC {\'a}nkov\IeC {\'e} webov\IeC {\'e} aplikace v javascriptu \cite {isomorhic_book} \relax }}{32}{figure.caption.13}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces V\IeC {\'y}voj zastoupen\IeC {\'\i } mobiln\IeC {\'\i }ch u\IeC {\v z}ivatel\IeC {\r u} na webu mezi lety 2009-2016 \cite {mobile_popularity}. \relax }}{35}{figure.caption.14}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Nej\IeC {\v c}ast\IeC {\v e}j\IeC {\v s}\IeC {\'\i } rozli\IeC {\v s}en\IeC {\'\i } koncov\IeC {\'y}ch za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } na internetu \cite {mobile_popularity}. \relax }}{36}{figure.caption.15}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagram komunikace vyhled\IeC {\'a}vac\IeC {\'\i }ho robota s headless prohl\IeC {\'\i }\IeC {\v z}e\IeC {\v c}em \cite {crawler_spa}. \relax }}{38}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Dva vz\IeC {\'a}jemn\IeC {\v e} isomorfn\IeC {\'\i } grafy \cite {isomorhic_book} \relax }}{40}{figure.caption.17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagram architektury typick\IeC {\'e} jednostr\IeC {\'a}nkov\IeC {\'e} webov\IeC {\'e} aplikace \cite {codepicnic_universaljs} \relax }}{41}{figure.caption.18}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagram architektury isomorfn\IeC {\'\i } webov\IeC {\'e} aplikace \cite {codepicnic_universaljs} \relax }}{42}{figure.caption.19}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Graf \IeC {\v c}as\IeC {\r u} prvotn\IeC {\'\i }ho na\IeC {\v c}ten\IeC {\'\i } Javascriptov\IeC {\'y}ch framework\IeC {\r u} \cite {spa_perf} \relax }}{44}{figure.caption.20}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Uk\IeC {\'a}zka generov\IeC {\'a}n\IeC {\'\i } nov\IeC {\'y}ch imutabiln\IeC {\'\i }ch objekt\IeC {\r u} \cite {immutable_json} \relax }}{47}{figure.caption.21}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Graf rychlost\IeC {\'\i } vykreslov\IeC {\'a}n\IeC {\'\i } aplikace v React s vyu\IeC {\v z}it\IeC {\'\i }m nebo nevyu\IeC {\v z}it\IeC {\'\i }m imutabiln\IeC {\'\i }ch objekt\IeC {\r u}. \cite {immutability_graph} \relax }}{48}{figure.caption.22}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagram pr\IeC {\'a}ce virtu\IeC {\'a}ln\IeC {\'\i }ho DOM v React \cite {react} \relax }}{55}{figure.caption.33}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Diagram architektury Flux \cite {flux} \relax }}{60}{figure.caption.40}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Diagram ilustruj\IeC {\'\i }c\IeC {\'\i } zp\IeC {\r u}sob fungov\IeC {\'a}n\IeC {\'\i } module bundleru Webpack \cite {webpack_book}. \relax }}{64}{figure.caption.44}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Uk\IeC {\'a}zka vytvo\IeC {\v r}en\IeC {\'e} isomorfn\IeC {\'\i } aplikace.\relax }}{72}{figure.caption.50}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagram spr\IeC {\'a}vy stavu aplikace pomoc\IeC {\'\i } framework\IeC {\r u} React a Redux \cite {react_best_practices}\relax }}{75}{figure.caption.51}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagram jednosm\IeC {\v e}rn\IeC {\'e}ho toku data v React \cite {react} \relax }}{76}{figure.caption.52}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Adres\IeC {\'a}\IeC {\v r}ov\IeC {\'a} struktura uk\IeC {\'a}zkov\IeC {\'e} webov\IeC {\'e} aplikace \relax }}{90}{figure.caption.61}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagram archiktuktury b\IeC {\v e}\IeC {\v z}n\IeC {\'e} jednostr\IeC {\'a}nkov\IeC {\'e} aplikace \cite {isomorhic_book} \relax }}{95}{figure.caption.62}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Diagram architektury isomorfn\IeC {\'\i } webov\IeC {\'e} aplikace \relax }}{96}{figure.caption.63}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Porovn\IeC {\'a}n\IeC {\'\i } rychlost\IeC {\'\i } vykreslov\IeC {\'a}n\IeC {\'\i } framework\IeC {\r u} React a Ember.js \cite {mathiasson-isomorphic} \relax }}{97}{figure.caption.65}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Diagram fungov\IeC {\'a}n\IeC {\'\i } frameworku React Native \cite {react_native_intro} \relax }}{103}{figure.caption.66}
+\addvspace {10\p@ }

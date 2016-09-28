@@ -1,0 +1,96 @@
+\BOOKMARK [0][-]{chapter.1}{\332vod}{}% 1
+\BOOKMARK [1][-]{section.1.1}{C\355l, metodika a predpoklady pr\341ce}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Struktura pr\341ce}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Liter\341rn\355 re\235er\235e v oblasti}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Javascript jako jazyk pro v\375voj webov\375ch aplikac\355}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Historick\375 v\375voj}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{ES6 \205 Nov\351 standardy}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{Tr\355dy}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.2}{Let a const}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.3}{Moduly}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.4}{Dal\235\355 novinky}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Javascriptov\351 transpilery}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.3.1}{CoffeeScript}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.2}{Babel}{section.2.3}% 14
+\BOOKMARK [1][-]{section.2.4}{Node.js \205 Javascript na serveru}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.5}{V\375vojov\351 n\341stroje}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.6}{Automatizace v\375voje}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.7}{Lintov\341n\355 k\363du}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.8}{Nejpou\236\355vanej\235\355 knihovny}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.8.1}{jQuery}{section.2.8}% 20
+\BOOKMARK [2][-]{subsection.2.8.2}{AngularJS}{section.2.8}% 21
+\BOOKMARK [2][-]{subsection.2.8.3}{React}{section.2.8}% 22
+\BOOKMARK [1][-]{section.2.9}{Mo\236nosti testov\341n\355}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.9.1}{Unit testy}{section.2.9}% 24
+\BOOKMARK [2][-]{subsection.2.9.2}{Integracn\355 testy}{section.2.9}% 25
+\BOOKMARK [2][-]{subsection.2.9.3}{Testov\341n\355 React komponent}{section.2.9}% 26
+\BOOKMARK [0][-]{chapter.3}{Jednostr\341nkov\351 webov\351 aplikace}{}% 27
+\BOOKMARK [1][-]{section.3.1}{Vznik my\235lenky SPA}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{Princip technologie}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.3}{Hlavn\355 v\375hody}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.1}{Vet\235\355 m\355ra interakce}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.2}{Obnovov\341n\355 pouze urcit\375ch c\341st\355 aplikace}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.3}{Mohou be\236et offline}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.4}{Lep\235\355 v\375konnost}{section.3.3}% 34
+\BOOKMARK [1][-]{section.3.4}{Roztr\355\235tenost koncov\375ch zar\355zen\355}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.5}{Vhodn\351 knihovny}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.6}{Nev\375hody a cast\351 probl\351my pri v\375voji}{chapter.3}% 37
+\BOOKMARK [0][-]{chapter.4}{Isomorfn\355 pr\355stup k programov\341n\355 webov\375ch aplikac\355}{}% 38
+\BOOKMARK [1][-]{section.4.1}{V\375hody isomorfn\355ho pr\355stupu}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.1.1}{Sjednocen\355 pou\236\355van\351ho jazyka a prostred\355}{section.4.1}% 40
+\BOOKMARK [2][-]{subsection.4.1.2}{Interaktivita jednostr\341nkov\375ch aplikac\355}{section.4.1}% 41
+\BOOKMARK [2][-]{subsection.4.1.3}{Sd\355len\355 k\363du mezi prostred\355mi}{section.4.1}% 42
+\BOOKMARK [2][-]{subsection.4.1.4}{Rychlej\235\355 prvotn\355 nacten\355 aplikace}{section.4.1}% 43
+\BOOKMARK [2][-]{subsection.4.1.5}{Indexovatelnost vyhled\341vaci}{section.4.1}% 44
+\BOOKMARK [2][-]{subsection.4.1.6}{Server-side rendering}{section.4.1}% 45
+\BOOKMARK [2][-]{subsection.4.1.7}{V\375voj mobiln\355ch aplikac\355}{section.4.1}% 46
+\BOOKMARK [1][-]{section.4.2}{Reaktivn\355 programov\341n\355}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.3}{Imutabiln\355 datov\351 struktury}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.4}{Vhodn\351 programovac\355 jazyky a n\341stroje}{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.4.1}{node.js}{section.4.4}% 50
+\BOOKMARK [2][-]{subsection.4.4.2}{npm}{section.4.4}% 51
+\BOOKMARK [2][-]{subsection.4.4.3}{express}{section.4.4}% 52
+\BOOKMARK [2][-]{subsection.4.4.4}{Immutable.js}{section.4.4}% 53
+\BOOKMARK [2][-]{subsection.4.4.5}{React}{section.4.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.6}{Flux}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.7}{Task runnery}{section.4.4}% 56
+\BOOKMARK [1][-]{section.4.5}{Ukl\341d\341n\355 dat}{chapter.4}% 57
+\BOOKMARK [1][-]{section.4.6}{Vybran\351 devstacky}{chapter.4}% 58
+\BOOKMARK [2][-]{subsection.4.6.1}{Este.js}{section.4.6}% 59
+\BOOKMARK [2][-]{subsection.4.6.2}{IMA.js}{section.4.6}% 60
+\BOOKMARK [2][-]{subsection.4.6.3}{Meteor}{section.4.6}% 61
+\BOOKMARK [2][-]{subsection.4.6.4}{DerbyJS}{section.4.6}% 62
+\BOOKMARK [2][-]{subsection.4.6.5}{Rendr}{section.4.6}% 63
+\BOOKMARK [0][-]{chapter.5}{Uk\341zkov\341 webov\341 aplikace}{}% 64
+\BOOKMARK [1][-]{section.5.1}{Vybran\351 re\235en\355}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.2}{Hlavn\355 principy implementace}{chapter.5}% 66
+\BOOKMARK [2][-]{subsection.5.2.1}{Offline-ready}{section.5.2}% 67
+\BOOKMARK [2][-]{subsection.5.2.2}{Mobile-first / Responsive design}{section.5.2}% 68
+\BOOKMARK [2][-]{subsection.5.2.3}{Jeden stav aplikace}{section.5.2}% 69
+\BOOKMARK [2][-]{subsection.5.2.4}{Jednosmern\375 tok dat}{section.5.2}% 70
+\BOOKMARK [2][-]{subsection.5.2.5}{Realtime komunikace a synchronizace}{section.5.2}% 71
+\BOOKMARK [1][-]{section.5.3}{Pou\236it\351 technologie}{chapter.5}% 72
+\BOOKMARK [2][-]{subsection.5.3.1}{node.js}{section.5.3}% 73
+\BOOKMARK [2][-]{subsection.5.3.2}{express}{section.5.3}% 74
+\BOOKMARK [2][-]{subsection.5.3.3}{React}{section.5.3}% 75
+\BOOKMARK [2][-]{subsection.5.3.4}{Redux}{section.5.3}% 76
+\BOOKMARK [2][-]{subsection.5.3.5}{immutable.js}{section.5.3}% 77
+\BOOKMARK [2][-]{subsection.5.3.6}{Babel}{section.5.3}% 78
+\BOOKMARK [2][-]{subsection.5.3.7}{RethinkDB}{section.5.3}% 79
+\BOOKMARK [2][-]{subsection.5.3.8}{Webpack}{section.5.3}% 80
+\BOOKMARK [2][-]{subsection.5.3.9}{Stylus}{section.5.3}% 81
+\BOOKMARK [1][-]{section.5.4}{Komunikace}{chapter.5}% 82
+\BOOKMARK [1][-]{section.5.5}{Sestavov\341n\355 a spou\235ten\355 aplikace}{chapter.5}% 83
+\BOOKMARK [1][-]{section.5.6}{Struktura aplikace}{chapter.5}% 84
+\BOOKMARK [2][-]{subsection.5.6.1}{Vstupn\355 body aplikace}{section.5.6}% 85
+\BOOKMARK [2][-]{subsection.5.6.2}{Sd\355len\375 k\363d}{section.5.6}% 86
+\BOOKMARK [2][-]{subsection.5.6.3}{Serverov\341 c\341st}{section.5.6}% 87
+\BOOKMARK [2][-]{subsection.5.6.4}{Klientsk\341 c\341st}{section.5.6}% 88
+\BOOKMARK [2][-]{subsection.5.6.5}{Testy}{section.5.6}% 89
+\BOOKMARK [0][-]{chapter.6}{Porovn\341n\355 s existuj\355c\355mi v\375vojov\375mi postupy}{}% 90
+\BOOKMARK [0][-]{chapter.7}{V\375sledky}{}% 91
+\BOOKMARK [0][-]{chapter.8}{Z\341ver}{}% 92
+\BOOKMARK [1][-]{section.8.1}{Dal\235\355 smery v\375zkumu v oblasti}{chapter.8}% 93
+\BOOKMARK [0][-]{figure.caption.66}{Literatura}{}% 94
+\BOOKMARK [-1][-]{chapter*.67}{Pr\355lohy}{}% 95
+\BOOKMARK [0][-]{appendix.A}{Manu\341l k uk\341zkov\351 webov\351 aplikaci}{chapter*.67}% 96
